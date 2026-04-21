@@ -1,6 +1,6 @@
 # AI Interview Coach (PartyRock App)
 
-## 🚀 Overview
+##  Overview
 An AI-powered interview simulator built using AWS PartyRock that helps job seekers practice and improve their interview skills with real-time feedback.
 
 ## 🎯 Problem
