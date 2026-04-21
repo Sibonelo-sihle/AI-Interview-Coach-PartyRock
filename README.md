@@ -27,9 +27,6 @@ This app simulates real interview scenarios and provides:
 3. User answers
 4. AI evaluates and gives feedback
 
-## 📸 Screenshots
-(Add images here)
-
 ## 🔗 Live Demo
 https://partyrock.aws/u/Sibonelo/Wq8BRNu-5/Cloud-DevOps-Career-Accelerator
 
